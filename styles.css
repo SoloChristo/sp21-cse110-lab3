@@ -7,6 +7,6 @@
   border: 10 solid black;
 }
 
-h1 {
+.top_header {
   color: hs1(0, 100%, 75%);
 }
