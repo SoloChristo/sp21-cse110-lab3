@@ -1,5 +1,5 @@
 name: Tracking issue
 about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
+title: "[April 19, 2021]: [FEATURE NAME]"
 labels: tracking issue, needs triage
-assignees: octocat
+assignees: SoloChristo
