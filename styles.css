@@ -1,0 +1,14 @@
+/* Should style box that holds picture, but IDK*/
+.box {
+  height: 100px;
+  width: 400px;
+  padding: 20px;
+  margin: 50px;
+  border: 10px solid rgb(170, 187, 251);
+  background-color: pink;
+}
+
+.top_header {
+  color: hsla(0, 95%, 75%, 0.7);
+  /* color: red; */
+}
